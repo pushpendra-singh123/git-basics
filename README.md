@@ -1,0 +1,1 @@
+# full info about git
